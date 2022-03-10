@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="307" height="83" viewBox="0 0 307 83">
+                    <g id="Group_1" data-name="Group 1" transform="translate(-530 -228)">
+                        <path id="Rectangle_3" data-name="Rectangle 3"
+                            d="M29,0H137a0,0,0,0,1,0,0V38a29,29,0,0,1-29,29H29A29,29,0,0,1,0,38V29A29,29,0,0,1,29,0Z" transform="translate(545 228)"
+                            fill="#30699d" />
+                        <path id="Rectangle_4" data-name="Rectangle 4"
+                            d="M0,0H108a29,29,0,0,1,29,29V39a29,29,0,0,1-29,29H29A29,29,0,0,1,0,39V0A0,0,0,0,1,0,0Z" transform="translate(530 243)"
+                            fill="#3ba48b" />
+                        <text id="Chat_" data-name="Chat!" transform="translate(708 284)" fill="#4f4f4f" font-size="45"
+                            font-family="Poppins-SemiBold, Poppins" font-weight="600">
+                            <tspan x="0" y="0">Chat!</tspan>
+                        </text>
+                        <circle id="Ellipse_7" data-name="Ellipse 7" cx="8" cy="8" r="8" transform="translate(565 269)" fill="#fff" />
+                        <circle id="Ellipse_8" data-name="Ellipse 8" cx="8" cy="8" r="8" transform="translate(591 269)" fill="#fff" />
+                        <circle id="Ellipse_9" data-name="Ellipse 9" cx="8" cy="8" r="8" transform="translate(617 269)" fill="#fff" />
+                        <text id="Puskesmas_Godean_2" data-name="Puskesmas Godean 2" transform="translate(713 304)" fill="#4f4f4f" font-size="11"
+                            font-family="Poppins-Regular, Poppins">
+                            <tspan x="0" y="0">Puskesmas Godean 2</tspan>
+                        </text>
+                    </g>
+                </svg>
